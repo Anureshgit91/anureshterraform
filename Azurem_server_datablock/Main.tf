@@ -6,3 +6,9 @@
 # output "server_id" {
 #   value = data.azurerm_mssql_server.datasql.id
 # }
+
+
+
+
+kya haal hai btaoo kaisa hai 
+kaha ja raha hau 
