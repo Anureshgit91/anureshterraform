@@ -6,3 +6,8 @@ resource "azurerm_mssql_database" "example" {
   max_size_gb  = var.max_size_gb
   sku_name     = var.sku_name
   }
+
+
+
+  terraform ka code hai
+  azurerm sql database
